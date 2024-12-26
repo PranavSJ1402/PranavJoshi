@@ -30,3 +30,11 @@ Tools: Experienced in using Git 🐙, GitHub 💻, and VS Code ✍️ for versio
 
   A responsive job listing website designed with React.js, enabling employers to manage job postings with plans to integrate developer application features.
 
+# 🤝 Connect with Me
+
+Feel free to connect with me through the following platforms:
+
+📧 Email: pranavsj02@gmail.com
+💼 LinkedIn: Pranav Joshi
+💻 GitHub: Pranav Joshi
+
