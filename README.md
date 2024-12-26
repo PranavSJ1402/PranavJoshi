@@ -35,6 +35,6 @@ Tools: Experienced in using Git 🐙, GitHub 💻, and VS Code ✍️ for versio
 Feel free to connect with me through the following platforms:
 
 📧 Email: pranavsj02@gmail.com
-💼 LinkedIn: Pranav Joshi
-💻 GitHub: Pranav Joshi
+💼 LinkedIn: http://www.linkedin.com/in/pranav-joshi-611838224/
+💻 GitHub: github.com/PranavSJ1402
 
