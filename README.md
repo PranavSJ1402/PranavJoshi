@@ -1,55 +1,32 @@
-Hi there, I'm Pranav Joshi 👋
+Hi there, Pranav Joshi 👋
 
 I'm a passionate final-year Computer Science and Engineering student, dedicated to web development. Currently working as a Web Developer Intern at BAOIAM Innovations Pvt Ltd, focusing on frontend development. Actively seeking opportunities to further enhance my skills and contribute to innovative tech solutions.
 
 About Me
 
-🎓 Final Year B.Tech Student
+🎓 Final-year B.Tech student at Marathwada Institute of Technology, Sambhajinagar, Maharashtra, expected to graduate in 2025.
 
-Marathwada Institute of Technology, Sambhajinagar, Maharashtra
+💻 Currently interning as a Frontend Developer at BAOIAM Innovations Pvt Ltd, specializing in building interactive and user-friendly interfaces with React.js.
 
-Expected Graduation: 2025
+🌐 Enthusiastic learner, continuously exploring cutting-edge technologies and best practices in frontend development.
 
-💻 Frontend Developer Intern
-
-Specializing in building interactive and user-friendly interfaces using React.js.
-
-🌐 Enthusiastic Learner
-
-Continuously exploring cutting-edge technologies and best practices in frontend development.
-
-🚀 Innovative Project Developer
-
-Focused on creating projects that deliver meaningful and impactful user experiences.
+🚀 Innovative project developer with a focus on creating meaningful and impactful user experiences.
 
 🚀 Skills
 
-Programming Languages
+Programming Languages: Proficient in Java, JavaScript, Python, and C.
 
- JavaScript, Python.
+Frontend: Skilled in HTML5, CSS3, React, and JavaScript for building responsive and dynamic user interfaces.
 
-Frontend
-
-HTML5, CSS3, React, JavaScript
-
-Tools
-
-Git, GitHub, VS Code
+Tools: Experienced in using Git 🐙, GitHub 💻, and VS Code ✍️ for version control and code management.
 
 📂 Projects
 
-🍽️ Food Delivery Web App | React.js, HTML, CSS
+🍽️ Food Delivery Web App
 
-🛠️ Developed a responsive food delivery application using React.js, featuring an intuitive UI for browsing food and managing the cart.
+  A responsive food delivery application built using React.js, featuring an intuitive UI for browsing food items and managing the cart with a clean, responsive layout.
 
-🎨 Implemented modern CSS and HTML for a clean, responsive layout across devices.
+💼 Job Listing Platform
 
-📦 Integrated efficient data handling for managing food items and cart functionality.
+  A responsive job listing website designed with React.js, enabling employers to manage job postings with plans to integrate developer application features.
 
-💼 Job Listing Platform | HTML, CSS, React.js
-
-🛠️ Designed a responsive job listing website enabling employers to post, edit, and delete job listings.
-
-🚀 Built with React.js and focused on frontend design and user experience with component-level CSS styling.
-
-🌟 Plans to implement developer application features to enhance the website's functionality.
